@@ -1,0 +1,11 @@
+C:\Users\Učenik\source\repos\Obiteljski kalendar\Obiteljski kalendar\bin\Debug\Obiteljski kalendar.exe.config
+C:\Users\Učenik\source\repos\Obiteljski kalendar\Obiteljski kalendar\bin\Debug\Obiteljski kalendar.exe
+C:\Users\Učenik\source\repos\Obiteljski kalendar\Obiteljski kalendar\bin\Debug\Obiteljski kalendar.pdb
+C:\Users\Učenik\source\repos\Obiteljski kalendar\Obiteljski kalendar\obj\Debug\Obiteljski kalendar.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\Obiteljski kalendar\Obiteljski kalendar\obj\Debug\Obiteljski_kalendar.Form1.resources
+C:\Users\Učenik\source\repos\Obiteljski kalendar\Obiteljski kalendar\obj\Debug\Obiteljski_kalendar.Properties.Resources.resources
+C:\Users\Učenik\source\repos\Obiteljski kalendar\Obiteljski kalendar\obj\Debug\Obiteljski_kalendar.UserControlBlank.resources
+C:\Users\Učenik\source\repos\Obiteljski kalendar\Obiteljski kalendar\obj\Debug\Obiteljski kalendar.csproj.GenerateResource.cache
+C:\Users\Učenik\source\repos\Obiteljski kalendar\Obiteljski kalendar\obj\Debug\Obiteljski kalendar.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\Obiteljski kalendar\Obiteljski kalendar\obj\Debug\Obiteljski kalendar.exe
+C:\Users\Učenik\source\repos\Obiteljski kalendar\Obiteljski kalendar\obj\Debug\Obiteljski kalendar.pdb
